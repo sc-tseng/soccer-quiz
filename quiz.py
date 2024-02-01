@@ -15,7 +15,6 @@ else:
     play_status = True
 
 ####Functions####
-#while play_status == True:
 #q1
 def q1(points):
     time.sleep(2)
