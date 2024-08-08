@@ -1,6 +1,8 @@
 ### Summary
 This is my first project uploaded to Github. 
+
 Just a test.
+
 A short quiz made in VS Code using Python 3.12. There are 10 simple questions on the sport of soccer. 
 ### How to run
 1. Clone the repository using Git Bash. This uses the command `git clone https://github.com/sc-tseng/soccer-quiz.git`
