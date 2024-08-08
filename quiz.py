@@ -93,8 +93,8 @@ def q5(points):
 #q6
 def q6(points):
     print("-----------------------")
-    answer = input("6. How many goals has Ronaldo scored?\na. 872\nb. 873\nc. 1027\nd. 869\n")
-    if answer.lower() == "b" or answer.lower() == "873":
+    answer = input("6. How many goals has Ronaldo scored?\na. below 890\nb. over 890\nc. 890\nd. none\n")
+    if answer.lower() == "b" or answer.lower() == "over 890":
         time.sleep(1)
         print('Correct')
         points += 1
